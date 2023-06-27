@@ -1,0 +1,30 @@
+{
+  "name": "live2d-vuenext",
+  "version": "1.1.10",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "live2d"
+  ],
+  "author": "freddey",
+  "license": "ISC",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.18.0",
+    "@typescript-eslint/parser": "^2.18.0",
+    "core-js": "^3.6.5",
+    "core-js-bundle": "3.6.1",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "prettier": "^1.19.1",
+    "rimraf": "^3.0.1",
+    "typescript": "^3.7.5",
+    "user": "^0.0.0",
+    "vue": "^3.2.37",
+    "whatwg-fetch": "^3.6.2",
+    "load-scripts": "^2.0.0"
+  }
+}
